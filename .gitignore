@@ -1,0 +1,5 @@
+#to ignore
+
+coffee_shop.csv/
+
+.ipynb_checkpoints/
